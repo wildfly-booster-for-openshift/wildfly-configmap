@@ -32,3 +32,4 @@ nbdist/
 target/
 
 # End of https://www.gitignore.io/api/java,netbeans
+/wildfly-configmap.iml
